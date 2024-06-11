@@ -1,0 +1,69 @@
+Questions and Answers on Assignment 1:
+
+
+
+
+What is software engineering, and how does it differ from traditional programming?
+
+=> Software Engineering refers to the application of scientific and engineering methods in developing, testing and debugging of software and all other related activities. Software engineering and traditional programming kinda relate when it comes to the base output needed in the end but they differ on the principles used and the how.
+While traditional programming only involves wirtting codes to obtain a specific software product, software engineering follows scientific procedures in designing and developing a software product and it mainly use SDLC framework.
+
+
+
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
+=> The SDLC is a framework that defines the different stages involved in software development.  SDLC has the following steps involved;
+Requirements Gathering: Define the project's goals, scope, and user needs.
+Design: Create a blueprint for the software architecture, outlining components and interactions.
+Development: Write code based on the design, implementing features and functionalities.
+Testing: Thoroughly test the software for bugs, usability, and performance.
+Deployment: Release the software to users or production environments.
+Maintenance: Address bugs, implement new features, and update the software over time.
+
+
+
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+
+=> Agile and Waterfall are two common software development approaches. Waterfall follows a linear, step-by-step plan starting with requirements gathering. It's good for large, complex projects with stable needs. Agile is iterative, delivering features in cycles with continuous feedback. It's flexible and adapts to changes but requires strong team communication. It is recommended to choose waterfall for well-defined projects with strict regulations, and Agile for projects that need to adapt to changing requirements or prioritize user feedback. 
+
+
+
+What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+
+=> Requirements engineering is the first step in SDLC which involves identifying, analyzing, documenting, and managing the needs and expectations of all stakeholders (users, developers, etc.) for a software system. This ensures the final product meets everyone's needs and avoids costly rework later.
+
+
+
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+
+=> Modularity in software design breaks down a complex system into smaller, independent, and reusable modules. Each module has a defined purpose and interacts with others through well-defined interfaces. This makes code easier to understand and maintain.
+
+
+
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
+=> Software testing ensures quality throughout the development lifecycle. It involves different levels: Unit testing focuses on individual code units, integration testing checks how modules work together, system testing verifies the entire system's functionality, and acceptance testing confirms the software meets user requirements.
+
+
+
+What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+
+=> Version control systems are like time machines for code. They track changes over time, allowing developer to revert to previous versions, collaborate effectively, and see who made what changes. Popular VCS options include Git.  These systems help prevent conflicts, manage different development branches, and ensure a clear history of project's evolution.
+
+
+
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+
+=> A software project manager is the person who is in charge of leading the project and he/she holds a development team together. He/she plan, delegate tasks, track progress, manage budgets, and ensure the project meets deadlines and goals.  The challenge lies in balancing competing priorities, navigating technical complexities, keeping the team motivated, and adapting to changes while delivering high-quality software.
+
+
+
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+
+=> Software maintenance is the ongoing process of keeping software up-to-date, fixing bugs, improving performance, and adapting to changing needs. It involves activities like fixing bugs, identifying potential issues, updating for new technologies, and enhancing usability or performance. Maintenance is crucial because software is rarely a one-time creation; it constantly evolves to address user needs, security threats, and technological advancements.
+
+
+
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+
+=> Software engineers can face ethical dilemmas around privacy, bias, and security.  For instance, an engineer might grapple with balancing user data collection for personalization with respecting user privacy.  To uphold ethics, engineers can advocate for user consent, transparent data practices, and avoiding discriminatory algorithms.  Example, Edward Snowden, a software engineer, raised concerns about government surveillance, highlighting the importance of ethical considerations in the tech industry. 
